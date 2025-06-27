@@ -1,8 +1,8 @@
 # Description  
 This is a space adventure game using OpenGL in Python, where you control a spaceship that jumps between planets, destroys meteors, and progresses through levels.  
 # Mission of this game  
-* A spaceship jumps from planet to planet in the solar system and gathers knowledge of that particular planet upon landing additionally.(using the key 'j' from keyboard)    
-* Destroy at least 5 meteors during each jump between planets.(Using right click of mouse).   
+* A spaceship jumps from planet to planet in the solar system and additionally gathers knowledge of that particular planet upon successful landing .    
+* Destroy at least 5 meteors during each jump between planets.   
 * Defeat boss meteor that appear on after every 2 levels.  
 * Reach and survive all the eight planets(From Earth to Neptune).  
 # Instruction to play the game
